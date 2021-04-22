@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!DOCTYPE cuisine SYSTEM "recette.dtd">
+
 <cuisine>
 <!-- ingerdient connus -->
    <ingredients>
