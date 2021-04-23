@@ -14,7 +14,7 @@
 		<xsl:variable name="name" select="."/>
 		<xsl:choose>
 			 <xsl:when test="//@ref[contains(text(),name)]">
-			 		<h3>ehehehehehe</h3>
+			 		<h3>inserer le lien ici ==>Voir correction 3.1=> generate-id</h3>
 			 </xsl:when>
 		</xsl:choose>
 </xsl:template>
